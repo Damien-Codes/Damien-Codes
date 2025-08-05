@@ -38,5 +38,5 @@ Passionné par la création de solutions logicielles et nouvelles téchnologies 
   <a href="mailto:pinodamien@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/></a>
   <a href="https://www.linkedin.com/in/damien-pino"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/></a>
   <a href="https://damien-codes.github.io/Mes_Reseaux/"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" width="40"/></a>
-  <a href="https://github.com/damien-codes"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40"/></a>
+  <a href="(https://www.instagram.com/skyll_box?igsh=dTMza2JmNTZsbXR3)"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40"/></a>
 </p>
