@@ -10,7 +10,8 @@ Passionné par la création de solutions logicielles robustes (front/back, bases
 
 ## 🔨 Projets
 - 🧩Extension Chrome : [**YouTube PiP & QR**](https://damien-codes.github.io/Web-Extension-Site)
-- 🎮 **Jeux** : [**Jeux de Mémoire**](https://damien-codes.github.io/Memory_card/))
+- 🎮 **Jeux** : [**Jeux de Mémoire**](https://damien-codes.github.io/Memory_card)
+- 🎮 **Outil** : [**Facture**](https://damien-codes.github.io/Facture)
 - **🏗️ Expérience Stage** : Architectures MVC & bases de données
 
 
