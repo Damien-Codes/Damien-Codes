@@ -23,15 +23,7 @@ Passionné par la création de solutions logicielles robustes couvrant tout le s
 
 ---
 
-## 🚀 Projets
 
-| Projet | Technologies | Description |
-|--------|--------------|-------------|
-| **[🧩 Extension Chrome](https://damien-codes.github.io/Mes_Reseaux/)** | <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5" title="HTML5"> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" title="CSS3"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript" title="JavaScript"> | Extension Picture-in-Picture |
-| **[🛒 Gestion de Commandes](https://damien-codes.github.io/Mes_Reseaux/)** | <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp" title="C#"> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql" title="MySQL"> | Back-office avec gestion de rôles |
-| **[🏗️ Expérience Stage](https://damien-codes.github.io/Mes_Reseaux/)** | <img src="https://img.shields.io/badge/-MVC-architecture-important" title="MVC"> <img src="https://img.shields.io/badge/-Database-blue" title="Bases de données"> | Architectures MVC & bases de données |
-
----
 
 ## 💻 Stack Technique
 
