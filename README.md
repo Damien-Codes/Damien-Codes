@@ -9,7 +9,7 @@
 Passionné par la création de solutions logicielles robustes (front/back, bases de données, cybersécurité)
 
 ## 🔨 Projets
-- 🧩Extension Chrome : [**TouTube PiP & QR**](https://damien-codes.github.io/Web-Extension-Site)
+- 🧩Extension Chrome : [**YouTube PiP & QR**](https://damien-codes.github.io/Web-Extension-Site)
 - **🛒 Gestion de Commandes** : Back-office C#/MySQL
 - **🏗️ Expérience Stage** : Architectures MVC & bases de données
 
