@@ -1,7 +1,6 @@
 <h1 align="center">👨‍💻 Damien Pino | Développeur Full Stack</h1>
 <p align="center">
   <strong>Alternance 2025-2026</strong> • CESI Concepteur Développeur d'Applications<br>
-  <img src="https://img.shields.io/badge/Disponible_🚀-Alternance_2025_2026-blueviolet" alt="Alternance">
 </p>
 
 ---
@@ -41,6 +40,6 @@ Passionné par la création de solutions logicielles robustes (front/back, bases
     <img src="https://img.shields.io/badge/LinkedIn-Damien_Pino-0A66C2?logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://damien-codes.github.io/Mes_Reseaux/">
-    <img src="https://img.shields.io/badge/Portfolio-damien--codes.github.io-4285F4?logo=google-chrome" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-damien--codes.github.io-4285F4?logo=google-chrome" alt="Mon Site">
   </a>
 </p>
