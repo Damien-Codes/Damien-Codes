@@ -9,7 +9,7 @@
 Passionné par la création de solutions logicielles robustes (front/back, bases de données, cybersécurité)
 
 ## 🔨 Projets
-- ### [**🧩 Extension Chrome**](https://damien-codes.github.io/Web-Extension-Site)
+- ### [**🧩 Extension Chrome**] | (https://damien-codes.github.io/Web-Extension-Site)
 - **🧩 Extension Chrome** : Picture-in-Picture (HTML/CSS/JS)
 - **🛒 Gestion de Commandes** : Back-office C#/MySQL
 - **🏗️ Expérience Stage** : Architectures MVC & bases de données
