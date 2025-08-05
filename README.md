@@ -1,32 +1,46 @@
-Salut ! Je suis Damien Pino 👋
-Développeur Full Stack en formation au CESI, je recherche une alternance d'un an (2025-2026) pour mon Bachelor Concepteur Développeur d'Application.
+<h1 align="center">👨‍💻 Damien Pino | Développeur Full Stack</h1>
+<p align="center">
+  <strong>Alternance 2025-2026</strong> • CESI Concepteur Développeur d'Applications<br>
+  <img src="https://img.shields.io/badge/Disponible_🚀-Alternance_2025_2026-blueviolet" alt="Alternance">
+</p>
 
-🔭 Mes domaines d'expertise et projets :
+---
 
-Je suis passionné par la concrétisation d'idées en solutions logicielles robustes, avec une maîtrise du développement web (front-end & back-end), des bases de données et des principes de cybersécurité.
+## 🚀 Expertise
+Passionné par la création de solutions logicielles robustes (front/back, bases de données, cybersécurité)
 
-Projets notables :
+## 🔨 Projets
+- **🧩 Extension Chrome** : Picture-in-Picture (HTML/CSS/JS)
+- **🛒 Gestion de Commandes** : Back-office C#/MySQL
+- **🏗️ Expérience Stage** : Architectures MVC & bases de données
 
-Extension de Navigateur : 🧩 Extension Chrome en HTML/CSS/JS pour le Picture-in-Picture.
+## 💻 Stack Technique
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-Gestion de Commandes : 🛒 Back-office C# avec MySQL pour la gestion des rôles et commandes.
+**Backend:**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
-Expérience en Stage : 🏗️ Contributions sur architectures MVC et gestion de bases de données.
+**Bases de données:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4EA94B?logo=mongodb&logoColor=white)
 
-Compétences clés :
-
-Web : HTML, CSS, JavaScript, PHP, React, TypeScript …
-
-Langages : Java, Python, C#, Kotlin …
-
-Bases de Données : SQL, MySQL, MariaDB, NoSQL …
-
-Outils : Git, Docker, VS Code, IntelliJ , Cursor …
-
-Connectons-nous !
-
-Email : 📧 pinodamien@gmail.com
-
-LinkedIn : 🔗 Damien Pino
-
-Site Web : 🖥️ https://damien-codes.github.io/Mes_Reseaux/
+## 📬 Contact
+<p align="center">
+  <a href="mailto:pinodamien@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pinodamien@gmail.com-D14836?logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/damien-pino">
+    <img src="https://img.shields.io/badge/LinkedIn-Damien_Pino-0A66C2?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://damien-codes.github.io/Mes_Reseaux/">
+    <img src="https://img.shields.io/badge/Portfolio-damien--codes.github.io-4285F4?logo=google-chrome" alt="Portfolio">
+  </a>
+</p>
