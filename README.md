@@ -36,7 +36,7 @@ Passionné par la création de solutions logicielles et nouvelles téchnologies 
 ## 📬 Contact
 <p align="center">
   <a href="mailto:pinodamien@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40">
   </a>
   <a href="https://www.linkedin.com/in/damien-pino">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
