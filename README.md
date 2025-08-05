@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Damien | Développeur Full Stack</h1>
 <p align="center">
-  <strong>Alternance 2025-2026</strong> • CESI Concepteur Développeur d'Applications<br>
+  <strong>Alternance 2025-2026</strong> • CESI "Concepteur Développeur d'Applications"<br>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 Passionné par la création de solutions logicielles robustes (front/back, bases de données, cybersécurité)
 
 ## 🔨 Projets
-- **🧩 Extension Chrome** : Picture-in-Picture (HTML/CSS/JS) | (https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white](https://damien-codes.github.io/Web-Extension-Site/)
+- **🧩 Extension Chrome** : Picture-in-Picture (HTML/CSS/JS) | (https://damien-codes.github.io/Web-Extension-Site/)
 - **🛒 Gestion de Commandes** : Back-office C#/MySQL
 - **🏗️ Expérience Stage** : Architectures MVC & bases de données
 
