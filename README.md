@@ -1,12 +1,12 @@
-<h1 align="center">👨💻 Damien | Développeur Full Stack</h1>
+<h1 align="center">💻 Damien | Développeur Full Stack</h1>
 <p align="center">
-  <strong>Alternance 2025-2026</strong> • CESI "Concepteur Développeur d'Applications"<br>
+  <strong>Alternance 2025-2026</strong> • Coding Factory "Développeur Solutions Web et Mobile"<br>
 </p>
 
 ---
 
 ## 🚀 Expertise
-Passionné par la création de solutions logicielles et nouvelles téchnologies (front/back, bases de données, sécurité)
+Passionné par le développement Web, Applicatif et Mobile, j'explore continuellement des technologies pour la conception de solutions digitales.
 
 ## 🔨 Projets
 - 🧩Extension Chrome : [**YouTube PiP & QR**](https://damien-codes.github.io/Web-Extension-Site)
