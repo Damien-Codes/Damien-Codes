@@ -9,6 +9,7 @@
 Passionné par le développement Web, Applicatif et Mobile, j'explore continuellement des technologies pour la conception de solutions digitales.
 
 ## 🔨 Projets
+- 🧩Extension Chrome : [**EcoQuant**][https://damien-codes.github.io/Web-Extension-Site](https://damien-codes.github.io/EcoQuant-Site/)
 - 🧩Extension Chrome : [**YouTube PiP & QR**](https://damien-codes.github.io/Web-Extension-Site)
 - 🎮 **Jeux** : [**Jeux de Mémoire**](https://damien-codes.github.io/Memory_card)
 - 🪛  **Outil** : [**Facture**](https://damien-codes.github.io/Facture)
